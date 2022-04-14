@@ -77,19 +77,11 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="#"
+                        href="https://github.com/SANUS-ML"
                       >
                         Github
                       </a>
-                    </li>
-                    <li>
-                      <a
-                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="#"
-                      >
-                        Free Products
-                      </a>
-                    </li>
+                    </li>                    
                   </ul>
                 </div>
                 <div className="w-full lg:w-4/12 px-4">
