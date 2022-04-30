@@ -429,7 +429,7 @@ export default function Index() {
                   <h5 className="text-xl font-semibold pb-4 text-center">
                     Covid Pneumonia Detection
                   </h5>
-                  <Link href="#">
+                  <Link href="/detect/Pneumonia">
                     <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
                       <img
                         alt="..."
@@ -444,7 +444,7 @@ export default function Index() {
                   <h5 className="text-xl font-semibold pb-4 text-center">
                     Heart Tumor Segmentation
                   </h5>
-                  <Link href="#">
+                  <Link href="/detect/Tumor">
                     <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
                       <img
                         alt="..."
